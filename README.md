@@ -23,7 +23,7 @@ This repo aggregates ~50 Verilog modules across 11 assignments, plus two capston
 ## Modules by Assignment
 
 Here is a comprehensive list of the Verilog modules I implemented across the diploma assignments.  
-(Some names are descriptive/inferred from the assignment briefs, since the exact `module xyz` names were left to students.)
+
 
 ### Assignment 1
 - `comparator_4bit_range` — 4-bit comparator that outputs HIGH if input is >0010 and <1000
