@@ -1,0 +1,10 @@
+module dff_en_pre(Q, E, D, clk, PRE);
+input E, D, clk, PRE;
+output reg Q;
+always @(posedge clk or negedge PRE) begin
+    if (!PRE)
+        Q <= 1'b1;
+    else if (E)
+        Q <= D;
+end
+endmodule
