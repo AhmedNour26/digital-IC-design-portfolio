@@ -6,8 +6,6 @@ This repo aggregates ~50 Verilog modules across 11 assignments, plus two capston
 - **Project 2:** SPI Slave with Single-Port RAM (FSM encodings + implementation flow)
                   https://github.com/AhmedNour26/spi-slave-single-port-ram
 
-> Certificate and detailed evidence (waveforms, lint, timing, utilization, device views) are captured in `docs/` and each project's README.
-
 ---
 
 ## Skills & Tools
